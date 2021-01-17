@@ -3,6 +3,6 @@
 Site de apresentacao 
 
 ## Preview
-[![Stylish Site Preview](IMG)](http://foradocubo.com/)
+[![Stylish Site Preview](IMG)](http://foradocubo.com/images/screenshot-rocks.png)
 
 **[View Live Preview](http://foradocubo.com/)**
